@@ -3,7 +3,7 @@
 
 In this project, I have performed an exploratory data analysis on the Boston crime dataset that begins on June 14, 2015, and continues to September 3, 2018. The goal was to provide some interesting and unique insights that can potentially be a baseline for further research.
 
-The complete notebook can be accessed here : 
+The complete notebook can be accessed [here](https://nbviewer.jupyter.org/github/omglu93/boston_crime_EDA/blob/master/boston-crime-eda-1-3.ipynb).
 
 ![boston](images/Boston-Skyline.jpg)
 
